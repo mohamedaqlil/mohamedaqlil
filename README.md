@@ -6,3 +6,5 @@
 🌐 Portfolio: https://bento.me/mohamedaqlil  
 🔤 Pronouns: He/Him  
 🎉 Fun fact: I'm working towards mastering both design and coding simultaneously!
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?mohamedaqlil)](https://github.com/mohamedaqlil/github-readme-stats)
