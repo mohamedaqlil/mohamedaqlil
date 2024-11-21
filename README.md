@@ -7,4 +7,4 @@
 🔤 Pronouns: He/Him  
 🎉 Fun fact: I'm working towards mastering both design and coding simultaneously!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedaqlil&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/mohamedaqlil/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedaqlil&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true)](https://github.com/mohamedaqlil/github-readme-stats)
