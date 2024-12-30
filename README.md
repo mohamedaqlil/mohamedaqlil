@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/aqlil_mohamed" target="blank"><img src="https://img.shields.io/twitter/follow/aqlil_mohamed?logo=twitter&style=for-the-badge" alt="aqlil_mohamed" /></a> </p>
 
-- 🛠️ I’m currently learning **C, C++, data structures, and algorithms.**
+- 🛠️ I’m currently learning **Python, data structures, and algorithms.**
 
 - 📫 How to reach me **https://bento.me/mohamedaqlil**
 
