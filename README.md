@@ -21,7 +21,7 @@
 
 ```txt
 🔭 Building:   RESTful + async APIs with FastAPI → PostgreSQL
-🎯 Goal:       2 solid backend projects & a dev job by the end of 2025
+🎯 Goal:       2 solid backend projects by the end of 2025
 💡 Interests:  System design, clean architecture, TDD, observability
 🛠️ Currently:  • LeetCode in C (DS&A)
                • Fine-tuning PostgreSQL performance & security
