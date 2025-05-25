@@ -55,11 +55,10 @@
 
 ## 🎯 2025 Roadmap
 
-- [ ] ✅ Finish **3** full-stack API projects (2 / 3)
-- [ ] 📚 Solve **200** LeetCode problems in C (98 / 200)
+- [ ] ✅ Finish **1** full-stack API projects (1 / 2)
+- [ ] 📚 Solve **50** LeetCode problems in C (2 / 50)
 - [ ] 🚀 Deploy every project with CI/CD via GitHub Actions & Docker
 - [ ] 🎥 Publish **2** technical videos per month on YouTube
-- [ ] 💼 Land first freelance FastAPI contract
 
 ---
 
