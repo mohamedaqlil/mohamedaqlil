@@ -48,7 +48,7 @@
 |---------------------------|-------------------------|--------|----------------------------------------------|
 | **Product Research API**  | FastAPI • PostgreSQL    | 🟡 MVP | Auth, pagination, background tasks           |
 | **Sleep-Tracker Backend** | FastAPI • PostgreSQL    | ⚪ Design | JWT auth, analytic endpoints                |
-| **ft_print_memory**       | C                       | 🟠 WIP | Pointers, hex formatting                     |
+| **ft_printf**       | C                       | 🟠 WIP | Variadic functions, format specifiers                     |
 | **LeetCode CLI**          | Python                  | 🟢 Alpha | Automation scripts, packaging               |
 
 ---
