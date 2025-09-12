@@ -8,11 +8,14 @@
 <p align="center">
   <img alt="FastAPI"        src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" />
   <img alt="Python"         src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img alt="Go"             src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" />
   <img alt="PostgreSQL"     src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge" />
   <img alt="Docker"         src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
   <img alt="C"              src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge" />
   <img alt="C++"            src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" />
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+  <img alt="Linux"          src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" />
 </p>
 
 ---
@@ -38,7 +41,7 @@
 
 | Category      | Tools                                   |
 |---------------|-----------------------------------------|
-| **Languages** | `Python` · `C` · `C++`                  |
+| **Languages** | `Python` · `C` · `C++` . `Go`            |
 | **Frameworks**| `FastAPI` · `Pytest`                    |
 | **Database**  | `PostgreSQL` (`psycopg`)                |
 | **Dev Ops**   | `Docker` · `GitHub Actions`             |
@@ -48,21 +51,7 @@
 
 ## 🚧 Featured Projects
 
-| Project                   | Tech                    | Status | What I’m Practising                          |
-|---------------------------|-------------------------|--------|----------------------------------------------|
-| **Product Research API**  | FastAPI • PostgreSQL    | 🟡 MVP | Auth, pagination, background tasks           |
-| **Sleep-Tracker Backend** | FastAPI • PostgreSQL    | ⚪ Design | JWT auth, analytic endpoints                |
-| **ft_printf**       | C                       | 🟠 WIP | Variadic functions, format specifiers                     |
-| **LeetCode CLI**          | Python                  | 🟢 Alpha | Automation scripts, packaging               |
-
----
-
-## 🎯 2025 Roadmap
-
-- [ ] ✅ Finish **1** full-stack API projects (1 / 2)
-- [ ] 📚 Solve **50** LeetCode problems in C (2 / 50)
-- [ ] 🚀 Deploy every project with CI/CD via GitHub Actions & Docker
-- [ ] 🎥 Publish **2** technical videos per month on YouTube
+[![maqlil's 42 stats](https://badge.mediaplus.ma/greenbinary/maqlil)](https://github.com/oakoudad/badge42)
 
 ---
 
