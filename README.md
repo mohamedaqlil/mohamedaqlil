@@ -49,7 +49,6 @@
 
 ---
 
-## 🚧 Featured Projects
 
 [![maqlil's 42 stats](https://badge.mediaplus.ma/greenbinary/maqlil)](https://github.com/oakoudad/badge42)
 
