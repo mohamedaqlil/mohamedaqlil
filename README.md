@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I’m <code>Mohamed Aqlil</code> 👋</h1>
 <p align="center">
-  <strong>Backend Developer • 1337 Ben Guerir Cadet — 42 Network • FastAPI & Go Enthusiast</strong>
+  <strong>Backend Developer • 1337 Ben Guerir — 42 Network Cadet • FastAPI & Go Enthusiast</strong>
 </p>
 
 <p align="center">
